@@ -1,4 +1,4 @@
 Website for Lynx Toys
 =======
-A software engineering project by AggieGeeks
+A development version by AggieGeeks
 -----------
